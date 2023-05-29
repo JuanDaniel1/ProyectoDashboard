@@ -29,7 +29,15 @@ Esta carpeta contiene toda la configuracion de los navegadores y los menus, incl
 
 🟢 Este archivo contiene los elementos del navegador inferior del dashboard, donde asignamos imagenes del drawer, titulo y su respectiva ruta que sera util para navegar.
 
-![image](https://github.com/JuanDaniel1/ProyectoDashboard/assets/110575826/a7e427c7-d9c2-4a61-a144-9c4271f0bc37)
+
+## MainPage
+
+🟢 MainPage contiene toda la composicion del dashboard donde invoca cada uno de los componentes de navegadores, lo que seria la plantilla general del dashboard.
+
+## MenuItem
+
+🟢 MenuItem reune todos los elementos de
+
 
 
 
